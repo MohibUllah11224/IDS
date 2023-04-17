@@ -22,3 +22,14 @@ The process is iterative and involves going back and forth between different ste
 i learned about the different tools which are used in the data Science filed such as programiming language, librarys, modeling tools and frameworks.
 ### Data Science Skills:
 The Skills require for Data Science are borblem solving, programiming, Data modeling and statistical.
+
+## weak 2 (Introduction to python)
+In this weak we learnded how to write basic python commands and learned the use of 
+* Functions
+* Types and sequences
+* Strings
+* Reading and writing CVS Files
+* Using Dates and Times
+* Objects and Map()
+* Lambda and List Comprehensions
+
