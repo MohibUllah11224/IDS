@@ -33,3 +33,8 @@ In this weak we learnded how to write basic python commands and learned the use 
 * Objects and Map()
 * Lambda and List Comprehensions
 
+### Introduction to Numpy:
+Numpy is the fundamental package for numeric computing with python. it provides powerful ways to create store and manipilate data. In this lecture we learned how to:
+* Create Arrays.
+* Selecting Elements from Arrays.
+* Loading dataset into an array.
