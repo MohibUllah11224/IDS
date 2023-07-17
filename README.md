@@ -76,4 +76,12 @@ parameters:
 * column
 ### Aggfunct():
 These are list of numpy function that we can use to aggregate out piviot table. the defauly aggregate argument function mean.
+
+## Weak 5 (Exploratory Data Analysis (EDA))
+EDA is an approch thst is used to analuze the data and discover trends, patteren or checks assumption in data with help of ststistical summaries and graphical representations.
+### Types of EDA
+ Depending on the number of columns we are analayze or dealing with we divide EDA into Two types:
+ * Univariate Analysis
+ * Multivariate Analysis
+
   
