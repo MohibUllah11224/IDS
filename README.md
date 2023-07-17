@@ -54,7 +54,15 @@ Numpy array is same as python dictionary but the main differences is that it is 
  * nominal data
  * ordinal data
 
-## Weak 4 ()
+## Weak 4 (Data Cleaning and Preprocessing)
+### Scaling
+scaling is used to con vert data with differen values or scale in to the same scale. 
+some types of scales are :
+* min max scale
+* standard scale
+### mearging
+some time when we are working with data we have data in two different files or table in that case we want to mearge the files
+
 ### Pivot Tables
 
 A pivot table is a way of summarizing data in a DataFrame for a particular purpose. It makes heavy use of the aggregation function. A pivot table is itself a DataFrame, where the rows represent one variable that you're interested in, the columns another, and the cell's some aggregate value. A pivot table also tends to includes marginal values as well, which are the sums for each column and row. This allows you to be able to see the relationship between two variables at just a glance.
@@ -68,5 +76,4 @@ parameters:
 * column
 ### Aggfunct():
 These are list of numpy function that we can use to aggregate out piviot table. the defauly aggregate argument function mean.
-
   
