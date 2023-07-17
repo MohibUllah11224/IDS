@@ -38,9 +38,23 @@ Numpy is the fundamental package for numeric computing with python. it provides 
 * Create Arrays.
 * Selecting Elements from Arrays.
 * Loading dataset into an array.
-Numpy array is same as python dictionary but the main differences is that it is faster and provide bultin function that make our work easy. 
-
+Numpy array is same as python dictionary but the main differences is that it is faster and provide bultin function that make our work easy.
 ## Weak 3 (Data Types and Sources)
+### Data:
+ Data is raw fact and figures that do not convay any infromation on its own. same data can convay different meaning accouding to its Types. 
+ ###Data Types
+ There are two types of data
+ #### Quantitative data:
+ This type data is numaric in nature which is divided in to two parts 
+ * continues data
+ * discreate data.
+
+ #### Qualitative data:
+ This type of data is discriptive in nature and is also divided into two parts.
+ * nominal data
+ * ordinal data
+
+## Weak 4 ()
 ### Pivot Tables
 
 A pivot table is a way of summarizing data in a DataFrame for a particular purpose. It makes heavy use of the aggregation function. A pivot table is itself a DataFrame, where the rows represent one variable that you're interested in, the columns another, and the cell's some aggregate value. A pivot table also tends to includes marginal values as well, which are the sums for each column and row. This allows you to be able to see the relationship between two variables at just a glance.
