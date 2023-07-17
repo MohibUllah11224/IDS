@@ -38,3 +38,21 @@ Numpy is the fundamental package for numeric computing with python. it provides 
 * Create Arrays.
 * Selecting Elements from Arrays.
 * Loading dataset into an array.
+Numpy array is same as python dictionary but the main differences is that it is faster and provide bultin function that make our work easy. 
+
+## Weak 3 (Data Types and Sources)
+### Pivot Tables
+
+A pivot table is a way of summarizing data in a DataFrame for a particular purpose. It makes heavy use of the aggregation function. A pivot table is itself a DataFrame, where the rows represent one variable that you're interested in, the columns another, and the cell's some aggregate value. A pivot table also tends to includes marginal values as well, which are the sums for each column and row. This allows you to be able to see the relationship between two variables at just a glance.
+### synatx 
+df.pivot_table(values='score', index='country', columns='Rank_Level', aggfunc=[np.mean]).head();
+
+parameters:
+* Data
+* Value 
+* index
+* column
+### Aggfunct():
+These are list of numpy function that we can use to aggregate out piviot table. the defauly aggregate argument function mean.
+
+  
