@@ -83,5 +83,9 @@ EDA is an approch thst is used to analuze the data and discover trends, patteren
  Depending on the number of columns we are analayze or dealing with we divide EDA into Two types:
  * Univariate Analysis
  * Multivariate Analysis
-
-  
+## Assignment No 1
+[https://github.com/MohibUllah11224/Assignment-No-1]
+## Assignment No 2
+[https://github.com/MohibUllah11224/Assignment-NO-2]
+## Assignment No 3
+[https://github.com/MohibUllah11224/Assignment-NO-3]
