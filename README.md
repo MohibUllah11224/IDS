@@ -83,6 +83,37 @@ EDA is an approch thst is used to analuze the data and discover trends, patteren
  Depending on the number of columns we are analayze or dealing with we divide EDA into Two types:
  * Univariate Analysis
  * Multivariate Analysis
+## weak 6(Types of Charts and Graphs)
+ Data visualization techniques using the ggplot module in Python. The notebooks walk through the process of reading and exploring the gapminder dataset using pandas, followed by creating various plots such as scatter plots, line plots, box plots, histograms, and density plots using ggplot. Additionally, it covers customization options like log transformations, color palettes, faceting, and theme adjustments. The code serves as a beginner's guide to using Jupyter Notebooks and ggplot for creating insightful and visually appealing plots with real-world data.
+ ## weak 7 (Tools for Data Visualization)
+ It covers popular data visualization libraries in different programming languages like Python (e.g., Matplotlib, Seaborn, Plotly, ggplot), R (e.g., ggplot2, lattice), and JavaScript (e.g., D3.js, Plotly.js). Each tool's capabilities and examples of their usage are provided through Jupyter Notebooks, R Markdown files, and web-based demos.
+ ## weak 8 (Statistical Inference)
+It covers fundamental concepts such as hypothesis testing, confidence intervals, p-values, and statistical significance. The provided Jupyter Notebooks and R scripts demonstrate practical applications of statistical inference using real-world datasets. Whether you're a beginner or experienced data scientist, this repository equips you with the knowledge and tools to make data-driven decisions
+ ## weak 9 (Introduction to Machine Learning)
+Machine Learning is a branch of artificial intelligence that focuses on developing algorithms and models that enable computers to learn from data and improve their performance on specific tasks without being explicitly programmed. It is a powerful and versatile field with applications in various domains, including data analysis, pattern recognition, image and speech processing, natural language understanding, and more.
+There are two primary types of machine learning:
+* Supervised Learning.
+* Unsupervised Learning.
+ ## weak 10 (Regression Analysis)
+Regression analysis is a statistical method used to examine the relationship between one or more independent variables (predictors) and a dependent variable (outcome). It aims to model and predict the value of the dependent variable based on the values of the independent variables.
+## weak 11 (Classification Analysis)
+Classification analysis is a statistical and machine learning method used to categorize or classify data into predefined classes or categories based on their features or attributes. It is one of the most common and important tasks in supervised learning, where the algorithm learns from labeled training data to make predictions on new, unseen data.
+
+In classification analysis, the data consists of a set of input variables (features) and a target variable (class or category). The goal is to build a model that can accurately assign each data point to its correct class based on the input features. The target variable can be binary (two classes) or multiclass (more than two classes).
+
+## weak 12 (Decision Trees and Random Forest)
+Decision Trees and Random Forest are powerful machine learning algorithms used for both regression and classification tasks. They are part of the family of ensemble learning methods, which combine multiple individual models to make more accurate and robust predictions
+
+## weak 13 (Unsupervised Learning: Clustering Analysis)
+Unsupervised learning is a branch of machine learning where the algorithm is trained on unlabeled data, and its goal is to discover patterns, relationships, or structures within the data without explicit guidance on the target outcome. Clustering analysis is a common type of unsupervised learning, where the algorithm groups similar data points into clusters based on their similarities.
+## weak 14 (Unsupervised Learning: Dimensionality Reduction)
+Dimensionality reduction is a technique in unsupervised learning that aims to reduce the number of features (dimensions) in a high-dimensional dataset while preserving its essential characteristics and minimizing the loss of information. It is particularly useful when dealing with datasets with a large number of features, as reducing dimensionality can lead to more efficient computation and better visualization of the data.
+
+## weak 15 (Big Data and Databases for Data Science)
+Big Data refers to large and complex datasets that are too large to be processed and analyzed using traditional data processing techniques. These datasets typically have high volume, velocity, and variety, and they often require specialized tools and technologies for storage, processing, and analysis.
+
+## weak 16 (Ethics in Applied Data Science)
+Ethics in applied data science refers to the responsible and ethical use of data, algorithms, and machine learning models in real-world applications. As data science becomes increasingly pervasive across various industries and domains, ethical considerations are paramount to ensure that data-driven decisions do not lead to harmful or biased outcomes.
 ## Assignment No 1
 [https://github.com/MohibUllah11224/Assignment-No-1]
 ## Assignment No 2
